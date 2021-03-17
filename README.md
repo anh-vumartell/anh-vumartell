@@ -20,3 +20,5 @@ Here are some facts about me
 - 📫 How to reach me anh.ngocvu91@gmail.com or twitt me @AnhVuMartell
 - ✨
 ## Contact me
+[Twitter](https://twitter.com/VuMartell)
+[Instagram] (https://www.linkedin.com/in/anh-vu-martell-b539b110a/)
