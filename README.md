@@ -19,6 +19,6 @@ Here are some facts about me
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me anh.ngocvu91@gmail.com or twitt me @AnhVuMartell
 - ✨
-## Contact me
+## ✉️ Contact me
 [Twitter](https://twitter.com/VuMartell)
-[Instagram] (https://www.linkedin.com/in/anh-vu-martell-b539b110a/)
+[Instagram](https://www.linkedin.com/in/anh-vu-martell-b539b110a/)
