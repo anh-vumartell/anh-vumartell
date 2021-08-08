@@ -5,7 +5,7 @@ Aspiring front-end developer, a career changer, currently self-learning Full-sta
 
 ## Skills
 * HTML
-* CSS
+* CSS/Sass
 * JavaScript
 * Java
 * Bootstrap
