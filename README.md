@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anh Vu-Martell</h1>
 <h3 align="center">A self-taught web developer from Finland</h3>
+- 🙂 I'm super self-motivated, hard-working and a bit nerdy kind of developer. 
 
-- 🌱 I’m currently learning **React, Nextjs, Nodejs**
+- 🗒️ I deeply value 3 aspects in web development: <b>functionality</b>, <b>scalability</b> and <b>accessibility</b>
+
+- 🌱 I’m currently learning **React, Nodejs, TypeScript and a bunch of other cool stuffs to make me better Web Developer**
+-
+- 🤩 My current interests are: front-end technologies, mobile applications and cloud techs. 
 
 - 📫 How to reach me **anh.ngocvu91@gmail.com**
 
