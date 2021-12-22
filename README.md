@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anh Vu-Martell</h1>
 <h3 align="center">A self-taught web developer from Finland</h3>
 
-- 🌱 I’m currently learning **React, Nextjs, Nodejs**
+- 🌱 I’m currently learning **React, Nextjs, Nodejs** and a bunch of other cool stuffs to make me the next great web developer. 
 
 - 📫 How to reach me **anh.ngocvu91@gmail.com**
 
-- ⚡ Fun fact **I can speak 3 languages (Vietnamese, English & Finnish) and a very good baker**
+- ⚡ Fun fact 1: **I can speak 3 languages (Vietnamese, English & Finnish) and a very good baker**
+
+- ⚡ Fun fact 2: **I started learning to code under Covid-19 home-quarantined after my trip to Vietnam spring 2020**
+
+- 🤩 My current interests: front-end technologies, web application, cloud tech. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
