@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anh Vu-Martell</h1>
-<h3 align="center">A self-taught web developer from Finland</h3>
+<h3 align="center">A self-taught quality assurance engineer from Finland</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, Redux, Python, Selenium, Robot Framework** and a bunch of other cool stuffs to make me the next great software engineer specialized in high quality software. 
+- 🌱 I’m currently learning **Python, Pytest, Selenium, Robot Framework** and a bunch of other cool stuffs to make me the next great software engineer specialized in test. 
 
 - 📫 How to reach me **anh.ngocvu91@gmail.com**
 
